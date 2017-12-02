@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Is created a new .git directory, that files all the repository history.
 I need it so I can keap track of all the changes I've made to a set of files in a project.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The stading area is a midle fild between the others two.
+It apoints the files to be tracked by a commit.
