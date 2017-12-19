@@ -1,3 +1,0 @@
-When would you want to use a remote repository rather than keeping all your work local?
-
-When I want to store my repository, so that I can acess it anywhere and/or I'm in a colaborative work and others need to have access to it.
