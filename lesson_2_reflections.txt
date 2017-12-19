@@ -8,3 +8,29 @@ What value do you think it offers?
 
 The stading area is a midle fild between the others two.
 It apoints the files to be tracked by a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can check git status and git diff --staged, to check for diferences in files from the staege area and last commit, 
+so that there is only one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+When you want to try out new thing or a newer version.
+You can create a branch to try out different thing whithout changing the main work.
+
+How do the diagrams help you visualize the branch structure?
+
+It let´s me understand where witch commit is lokated on and if there is any unreacheble commit.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+When we merge two files together, the different data between files is joined.
+Because the final file is the composition of the 2 parent files.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automation, speeads up the process of merging, the main problem with automation is that it can cause/create errors to the merge.
+That's why automted merge is so limited on git, so it can avoid conflits.
