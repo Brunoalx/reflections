@@ -26,3 +26,8 @@ I could find other colaboration software, or trying to communicate over e-mail.
 Small projects with limited colaboration would be easier.
 Big projects with lots of colaborators would cause really big dificulties in trying to keap up with whats going up with the project.
 Another major dificulty would be to keap register of changes.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You want to make changes in a separate branch when you want to try new features, that you dont know how will work or if it will fit in. Making changes directly in master is a good ideia if you whant to correct a bug found or if the change goes in the directon planed for the project.
